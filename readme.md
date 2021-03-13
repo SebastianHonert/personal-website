@@ -4,8 +4,8 @@
 
 ## Copyright
 
-Feel free to edit, remix, and use in your own project.
+Feel free to edit, remix, and use this website in your own project.
 
-**However, all image files (except SVG files) are copyrighted and must not be re-distributed.**
+**However, all image files (except SVG files) are copyrighted and must not be redistributed!**
 
 Enjoy!
