@@ -179,8 +179,8 @@ nav#main ul li:last-child {
   display: block;
   content: '';
   position: absolute;
-  left: -2px;
-  top: -2px;
+  left: -1px;
+  top: -1px;
   width: calc(100% + 4px);
   height: calc(100% + 4px);
   background: linear-gradient(160deg, #016F94, #FFB06D);
