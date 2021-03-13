@@ -297,9 +297,11 @@
               </div>
               <div class="flex-column flex-column__half">
                 <div class="legal">
-                  <p><a href="./impressum/">Impressum &amp; Datenschutz</a></p>
-                  <p>Diese Website verwendet weder Cookies noch Google Analytics und auch sonst keine Tracking-Software. Datenkraken müssen draußen bleiben.</p>
-                  <p class="last"><small>&copy; Sebastian Honert <?= date("Y") ?></small></p>
+                  <p>
+                    <a href="https://github.com/SebastianHonert/personal-website" target="_blank" rel="noopener noreferrer">GitHub Repository</a><br>
+                    <a href="./impressum/">Impressum &amp; Datenschutz</a>
+                  </p>
+                  <p class="last">Diese Website verwendet weder Cookies noch Google Analytics und auch sonst keine Tracking-Software. Datenkraken müssen draußen bleiben.</p>
                 </div>
               </div>
             </div>
