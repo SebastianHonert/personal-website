@@ -780,22 +780,17 @@ input[type='submit'].btn--error:active {
 }
 
 /* Responsive */
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 812px) {
   h1 {
-    padding: 0 0;
-    text-align: center;
-    margin: 0 auto;
-    width: 100%;
+    font-size: 2em;
   }
 
   .column__welcome img.welcome {
-    display: none;
-    // left: auto;
-    // right: -2rem;
-    // bottom: 1rem;
-    // height: 90%;
-    // opacity: .1;
-    // z-index: 0;
+    position: absolute;
+    left: 76%;
+    bottom: 14%;
+    height: 75%;
+    z-index: 0;
   }
 }
 
@@ -805,7 +800,7 @@ input[type='submit'].btn--error:active {
   }
 
   h1 {
-    font-size: 2em;
+    font-size: 2.125em;
   }
 
   .portfolio {
@@ -818,6 +813,20 @@ input[type='submit'].btn--error:active {
     flex: 0 0 calc(50% - 1rem);
     -ms-flex: 0 0 47%;
     margin: 0 .5rem 1rem;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  h1 {
+    padding: 0 0;
+    text-align: center;
+    margin: 0 auto;
+    width: 100%;
+    font-size: 2em;
+  }
+
+  .column__welcome img.welcome {
+    display: none;
   }
 }
 
@@ -846,6 +855,10 @@ input[type='submit'].btn--error:active {
 
   .column__welcome img.welcome {
     display: none;
+  }
+
+  h1 {
+    font-size: 1.93875em;
   }
 
   .column__contact {
