@@ -864,8 +864,8 @@ input[type='submit'].btn--error:active {
   }
 
   .column__footer::after {
-    background-position: 125% 10%;
-    background-size: auto 60%;
+    background-position: 105% 10%;
+    background-size: auto 52%;
   }
 }
 
@@ -883,6 +883,13 @@ input[type='submit'].btn--error:active {
     flex: 0 0 100%;
     max-width: 360px;
     margin: 0 0 1rem;
+  }
+}
+
+@media screen and (max-width: 360px) {
+  .column__footer::after {
+    background-position: 170% 10%;
+    background-size: auto 42%;
   }
 }
 

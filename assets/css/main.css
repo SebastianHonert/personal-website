@@ -727,8 +727,8 @@ input[type='submit'].btn--error:active {
     text-align: left; }
 
   .column__footer::after {
-    background-position: 125% 10%;
-    background-size: auto 60%; } }
+    background-position: 105% 10%;
+    background-size: auto 52%; } }
 @media screen and (max-width: 600px) {
   body {
     font-size: 17px; }
@@ -741,6 +741,10 @@ input[type='submit'].btn--error:active {
     flex: 0 0 100%;
     max-width: 360px;
     margin: 0 0 1rem; } }
+@media screen and (max-width: 360px) {
+  .column__footer::after {
+    background-position: 170% 10%;
+    background-size: auto 42%; } }
 @media screen and (max-width: 359px) {
   body {
     font-size: 17px; }
