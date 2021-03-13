@@ -333,6 +333,9 @@ nav#main ul li:last-child {
 .portfolio-item.study-at-fau .cover {
   background-image: url("../img/portfolio/study-at-fau.jpg"); }
 
+.portfolio-item.zauberharfe .cover {
+  background-image: url("../img/portfolio/zauberharfe.jpg"); }
+
 /* Slick Slider */
 .slide {
   text-align: center; }

@@ -126,11 +126,18 @@
                   <p>https://kus-projekt.de</p>
                 </div>
               </a>
-              <a class="portfolio-item hochzeitsband" href="https://hochzeitsband.de" target="_blank">
+              <a class="portfolio-item zauberharfe" href="https://cab-onlineshop.de" target="_blank">
                 <div class="cover"></div>
                 <div class="description">
-                  <h3>Musik für Verliebte</h3>
-                  <p>https://hochzeitsband.de</p>
+                  <h3>Zauberhafte Harfen</h3>
+                  <p>https://cab-onlineshop.de</p>
+                </div>
+              </a>
+              <a class="portfolio-item mkg-connect" href="https://mkg-connect.de" target="_blank">
+                <div class="cover"></div>
+                <div class="description">
+                  <h3>MKG Connect</h3>
+                  <p>https://mkg-connect.de</p>
                 </div>
               </a>
               <a class="portfolio-item ciell" href="https://ciell.eu/app/" target="_blank">
@@ -147,11 +154,11 @@
                   <p>https://meinstudium.fau.de</p>
                 </div>
               </a>
-              <a class="portfolio-item mkg-connect" href="https://mkg-connect.de" target="_blank">
+              <a class="portfolio-item hochzeitsband" href="https://hochzeitsband.de" target="_blank">
                 <div class="cover"></div>
                 <div class="description">
-                  <h3>MKG Connect</h3>
-                  <p>https://mkg-connect.de</p>
+                  <h3>Musik für Verliebte</h3>
+                  <p>https://hochzeitsband.de</p>
                 </div>
               </a>
               <a class="portfolio-item reinhard-krehl" href="https://reinhardkrehl.de" target="_blank">
