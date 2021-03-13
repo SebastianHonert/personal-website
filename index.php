@@ -51,7 +51,7 @@
       <section>
         <div class="row row__welcome">
           <div class="column column__welcome">
-            <h1>Hi, ich bin <span class="name">Sebastian</span>. Ich entwickle Web&shy;seiten, Web&nbsp;Apps, Online-Shops und digitale Produkte. Kompetent und 100% <span id="typewriter">zuverlässig.</span></h1>
+            <h1>Hallo, ich bin <span class="name">Sebastian</span>. Ich entwickle Web&shy;seiten, Web Apps, Online-Shops und digitale Produkte. Kompetent und 100% <span id="typewriter">zuverlässig.</span></h1>
             <img class="welcome" alt="" src="./assets/img/kangaroo.svg">
           </div>
         </div>
@@ -321,7 +321,7 @@
   </div>
   <script src="./assets/js/jquery-1.11.1.min.js"></script>
   <script src="./assets/js/slick/slick.min.js"></script>
-  <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
+  <script src="./assets/js/typewriter-2.17.0.min.js"></script>
   <script src="./assets/js/main.js"></script>
 </body>
 </html>
