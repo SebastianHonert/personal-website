@@ -173,7 +173,7 @@ $(document).ready(function () {
     .pauseFor(4000)
     .deleteChars(8)
     .typeString('im Zeitplan.')
-    .pauseFor(3000)
+    .pauseFor(4000)
     .deleteChars(12)
     .start()
 
