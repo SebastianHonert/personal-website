@@ -262,6 +262,7 @@ nav#main ul li:last-child {
 .portfolio-item {
   position: relative;
   flex: 0 0 calc(33.333% - 2rem);
+  -ms-flex: 0 0 29%;
   outline: none;
   transition: opacity .3s ease-out, box-shadow .3s ease-out;
   text-align: center;
@@ -404,12 +405,8 @@ nav#main ul li:last-child {
   color: #016F94; }
 
 /* Dots */
-.slick-dotted.slick-slider {
-  margin-bottom: 30px; }
-
 .slick-dots {
-  position: absolute;
-  bottom: -25px;
+  position: relative;
   display: block;
   width: 100%;
   padding: 0;
@@ -692,6 +689,7 @@ input[type='submit'].btn--error:active {
   .portfolio-item {
     position: relative;
     flex: 0 0 calc(50% - 1rem);
+    -ms-flex: 0 0 47%;
     margin: 0 .5rem 1rem; } }
 @media screen and (max-width: 640px) {
   .column {
