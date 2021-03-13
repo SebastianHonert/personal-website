@@ -194,7 +194,7 @@
                 <p>Sebastian half uns schnell und unkompliziert im Aufbau unserer Website. Dabei unterstützte er uns durch hilfreiche strukturelle als auch grafische Lösungsansätze in der Umsetzung unserer Ideen. Des Weiteren betreut er auch aktuell unsere Website und kümmert sich neben technischen Verbesserungen und Erneuerungen auch um deren Aktualisierung nach unseren Vorgaben. Hierbei agiert er sehr gewissenhaft und zeitnah. Mit ihm haben wir einen zuverlässigen, kreativen und lösungsorientierten Partner gefunden, der uns hoffentlich noch lange betreuen wird. Danke!</p>
               </div>
               <div class="slide">
-                <div class="image roland"></div>
+                <a href="https://relativgut.de" target="_blank" rel="noopener noreferrer" class="image roland"></a>
                 <h2>Roland</h2>
                 <p>Sebastian hat ein Info-Portal für alle Fakultäten der Universität entwickelt und dabei den Bedarf von über 250 Studiengängen berücksichtigt. Mit Sebastian im Team konnten wir viel kreativer arbeiten, als es mit einer Agentur möglich gewesen wäre. Er bringt sich inhaltlich ein und liefert vom Datenmodell bis zum Frontend-Design Lösungen, die gut aussehen und den Nutzen für die Anwender in den Vordergrund stellen. Entstanden ist so ein Ergebnis, auf das wir stolz sein können.</p>
               </div>

@@ -63,7 +63,7 @@
             <br><a href="mailto:hello@sebastianhonert.com">hello@sebastianhonert.com</a></p>
             <p>USt.-ID: DE278894834</p>
             <h2>Bildnachweise</h2>
-            <p>Portrait: <a href="https://timhufnagl.com" rel="noopener noreferrer">Tim Hufnagl</a></p>
+            <p>Portrait &amp; Foto Zauberharfe: <a href="https://timhufnagl.com" rel="noopener noreferrer">Tim Hufnagl</a></p>
             <h2>Ihre Betroffenenrechte</h2>
             <p>Unter den angegebenen Kontaktdaten unseres Datenschutzbeauftragten können Sie jederzeit folgende Rechte ausüben:</p>
             <ul>

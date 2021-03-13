@@ -58,7 +58,6 @@ h1.with-margin {
   margin-bottom: 1em; }
 
 h1 .name {
-  display: inline-block;
   color: #016F94;
   text-decoration: underline;
   font-weight: 800; }
@@ -129,7 +128,7 @@ a:hover {
   width: 1280px; }
 
 .row__welcome {
-  background: linear-gradient(45deg, #FFB06D 25%, #FFE4B6);
+  background: linear-gradient(30deg, #FFB06D 10%, #FFE4B6);
   overflow: hidden; }
 
 .column__welcome img.welcome {

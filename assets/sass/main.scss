@@ -70,7 +70,6 @@ h1.with-margin {
 }
 
 h1 .name {
-  display: inline-block;
   color: $secondary;
   text-decoration: underline;
   font-weight: 800;
@@ -155,7 +154,7 @@ a:hover {
 }
 
 .row__welcome {
-  background: linear-gradient(45deg, $light-2 25%, $light-1);
+  background: linear-gradient(30deg, $light-2 10%, $light-1);
   overflow: hidden;
 }
 
