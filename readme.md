@@ -1,6 +1,10 @@
-# Live website
+# Demo
 
 [https://sebastianhonert.de](https://sebastianhonert.de)
+
+Please note: IE11 is not supported.
+
+## Copyright
 
 Feel free to edit, remix, and use in your own project.
 
