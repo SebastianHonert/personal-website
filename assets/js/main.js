@@ -157,6 +157,26 @@ $(document).ready(function () {
     return re.test(String(email).toLowerCase());
   }
 
+  // Typewriter
+  let app = document.getElementById('typewriter')
+  let typewriter = new Typewriter(app, {
+    loop: true,
+    delay: 75,
+  })
+
+  typewriter
+    .pauseFor(1000)
+    .typeString('zuverlässig.')
+    .pauseFor(4000)
+    .deleteChars(12)
+    .typeString('kreativ.')
+    .pauseFor(4000)
+    .deleteChars(8)
+    .typeString('im Zeitplan.')
+    .pauseFor(3000)
+    .deleteChars(12)
+    .start()
+
   // Loading layer
   setTimeout(function () {
     $('.loading').fadeOut(500)

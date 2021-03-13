@@ -51,8 +51,8 @@
       <section>
         <div class="row row__welcome">
           <div class="column column__welcome">
-            <h1>Hi, ich bin <span class="name">Sebastian</span>. Ich entwickle Web&shy;seiten, Web&nbsp;Apps, Online-Shops und digitale Produkte. Kompetent und 100% zuverlässig.</h1>
-            <img class="svg" alt="" src="./assets/img/kangaroo.svg">
+            <h1>Hi, ich bin <span class="name">Sebastian</span>. Ich entwickle Web&shy;seiten, Web&nbsp;Apps, Online-Shops und digitale Produkte. Kompetent und 100% <span id="typewriter">zuverlässig.</span></h1>
+            <img class="welcome" alt="" src="./assets/img/kangaroo.svg">
           </div>
         </div>
       </section>
@@ -69,7 +69,7 @@
                 </div>
               </div>
               <div class="flyout" tabindex="0">
-                <h2 class="title"><span class="flyout-symbol">WordPress</h2>
+                <h2 class="title">WordPress</h2>
                 <div class="content">
                   <p>Ich bin <strong>Spezialist</strong> für die Entwicklung, Administration und Redaktions&shy;arbeit mit WordPress. Ich entwickle Themes, Plugins und Inhalte für den Gutenberg Block-Editor. Mein Werkzeugkasten beinhaltet ein eigenes WP-Framework und eine Vielzahl von qualitativ hochwertigen und im Live-Einsatz erprobten Bausteinen aus dem WP-Ökosystem.</p>
                 </div>
@@ -185,7 +185,7 @@
             <div class="slick-slider">
               <div class="slide">
                 <div class="image thomas"></div>
-                <h2>Thomas</h3>
+                <h2>Thomas</h2>
                 <p>Wir danken für den großartigen Service und die überzeugenden technischen Lösungen, den Sebastian für uns und unsere neuen Webseiten realisiert hat. Für uns war es „the next step to the future“, den er uns spielend leicht ermöglichte. Wir freuen uns auf weitere Projekte und eine ergebnisreiche Zusammenarbeit in den nächsten Jahren.</p>
               </div>
               <div class="slide">
@@ -259,6 +259,8 @@
                 <p>After searching for theme after theme, this one had the look and flexibility I was looking for. After running into a conflict issue with a plugin, Sebastian immediately responded back and found the solution. Excellent customer support! Thank you.</p>
               </div>
             </div>
+          </div>
+        </div>
       </section>
       <section id="contact">
         <div class="row row__contact">
@@ -318,7 +320,8 @@
     </footer>
   </div>
   <script src="./assets/js/jquery-1.11.1.min.js"></script>
-  <script type="text/javascript" src="./assets/js/slick/slick.min.js"></script>
-  <script type="text/javascript" src="./assets/js/main.js"></script>
+  <script src="./assets/js/slick/slick.min.js"></script>
+  <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
+  <script src="./assets/js/main.js"></script>
 </body>
 </html>

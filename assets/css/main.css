@@ -46,7 +46,7 @@ h1, h2, h3, h4, h5, h6 {
   position: relative; }
 
 h1 {
-  line-height: 1.125;
+  line-height: 1.25;
   font-size: 2.125em;
   padding: 0 0;
   font-weight: 700;
@@ -132,7 +132,7 @@ a:hover {
   background: linear-gradient(45deg, #FFB06D 25%, #FFE4B6);
   overflow: hidden; }
 
-.column__welcome .svg {
+.column__welcome img.welcome {
   position: absolute;
   left: 75%;
   bottom: 10%;
@@ -174,7 +174,6 @@ nav#main ul li:last-child {
   padding: .875rem 1rem;
   margin-bottom: .875rem;
   transition: background-color .2s ease-out;
-  border-radius: 2px;
   position: relative; }
 
 .flyout::after {
@@ -186,8 +185,7 @@ nav#main ul li:last-child {
   width: calc(100% + 4px);
   height: calc(100% + 4px);
   background: linear-gradient(160deg, #016F94, #FFB06D);
-  z-index: -1;
-  border-radius: 2px; }
+  z-index: -1; }
 
 .flyout .touch {
   position: absolute;
@@ -666,18 +664,13 @@ input[type='submit'].btn--error:active {
 /* Responsive */
 @media screen and (max-width: 1023px) {
   h1 {
-    width: 90%;
     padding: 0 0;
     text-align: center;
-    margin: 0 auto; }
+    margin: 0 auto;
+    width: 100%; }
 
-  .column__welcome .svg {
-    left: auto;
-    right: -3rem;
-    bottom: -1rem;
-    height: 115%;
-    opacity: .1;
-    z-index: 0; } }
+  .column__welcome img.welcome {
+    display: none; } }
 @media screen and (max-width: 768px) {
   body {
     font-size: 18px; }
@@ -712,8 +705,11 @@ input[type='submit'].btn--error:active {
   .column.column__welcome {
     padding: 4rem 1.5rem; }
 
-  .column__welcome .svg {
-    opacity: .05; }
+  .column__welcome img.welcome {
+    display: none; }
+
+  .column__contact {
+    padding-top: 3rem; }
 
   #form-feedback {
     padding: 1rem 1.25rem; }
