@@ -61,6 +61,7 @@
 <br>
 <br>+49 (0) 179 9739851
 <br><a href="mailto:hello@sebastianhonert.com">hello@sebastianhonert.com</a></p>
+<p>USt.-ID: DE278894834</p>
 <h2>Bildnachweise</h2>
 <p>Portrait: <a href="https://timhufnagl.com" rel="noopener noreferrer">Tim Hufnagl</a></p>
 <h2>Ihre Betroffenenrechte</h2>
