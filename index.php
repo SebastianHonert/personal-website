@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Sebastian Honert | Webentwicklung</title>
   <link rel="stylesheet" href="./assets/css/normalize.min.css">
-  <link rel="stylesheet" href="./assets/css/main.css">
+  <link rel="stylesheet" href="./assets/css/main.css?v=1.1">
   <link rel="stylesheet" type="text/css" href="./assets/js/slick/slick.min.css">
   <link rel="apple-touch-icon" sizes="180x180" href="./assets/img/favicons/apple-touch-icon.png">
   <link rel="icon" type="image/png" sizes="32x32" href="./assets/img/favicons/favicon-32x32.png">
@@ -285,6 +285,42 @@
           </div>
         </div>
       </section>
+      <section id="timeline">
+        <div class="row row__timeline">
+          <div class="column column__timeline">
+            <h2>Projektablauf</h2>
+            <p class="phases">Die konkrete Projektarbeit ist in der Regel so individuell wie ihr Produkt. Es existieren allerdings <strong>hilfreiche und bewährte Meilensteine</strong>, an denen entlang wir die unsere Zusammenarbeit effizient organisieren können.</p>
+            <div class="timeline">
+              <div class="timeline-item">
+                <h3>1. Persönliches Gespräch</h3>
+                <p>Am Anfang einer guten Zusammenarbeit steht ein persönliches Gespräch – gerne telefonisch oder per Video-Konferenz. Dabei finden wir heraus, ob eine gemeinsame Projektarbeit vorstellbar und für beide Seiten gewinnbringend ist.</p>
+              </div>
+              <div class="timeline-item">
+                <h3>2. Kick-Off Workshop</h3>
+                <p>Nach unserem Erstkontakt vereinbaren wir einen Termin für einen Kick-Off Workshop. Hier nehmen wir uns die Zeit, um Ihr Vorhaben im Detail zu besprechen – wesentliche Projektziele, optimaler Workflow, passende Technologien und Zeitplan. Der Workshop lässt sich übrigens auch getrennt von den sonstigen Leistungen als separater <strong>Beratungstermin</strong> durchführen.</p>
+              </div>
+              <div class="timeline-item">
+                <h3>3. Konzeption</h3>
+                <p>Im Anschluss an den Kick-Off Workshop beginnt die Konzeptphase. Hier geht es um Fragen des Produktdesigns, die Sichtung und Sondierung technischer Konponenten und die Herstellung von Wireframes, Layout- und Gestaltungs&shy;elementen.</p>
+              </div>
+              <div class="timeline-item">
+                <h3>4. Umsetzung</h3>
+                <p>Sobald das Konzept steht, beginnt die Umsetzung des Produkts. Am Ende dieses Arbeitsschrittes steht ein Prototyp, anhand dessen wir die Funktionalität der bisherigen Outputs auf Herz und Nieren prüfen.</p>
+              </div>
+              <div class="timeline-item">
+                <h3>5. Korrekturphase</h3>
+                <p>In einer Korrekturphase nehmen wir notwendige Anpassungen und Änderungen and Design und Funktion vor und verleihen dem Produkt den nötigen Feinschliff.</p>
+              </div>
+              <div class="timeline-item">
+                <div class="arrow"></div>
+                <h3>6. Veröffentlichung</h3>
+                <p>Mit dem Produkt-Release öffnen wir den Zugang zu Ihrem Produkt für das breite Publikum.</p>
+              </div>
+            </div>
+            <p class="phases"><strong>Geschafft!</strong> Das Ergebnis ist ein Produkt, das einwandfrei funktioniert, toll aussieht und auf das Sie stolz sein können. Klingt gut? Dann <a href="#contact"><strong>schreiben Sie mir</strong></a> am besten gleich eine Nachricht, damit wir loslegen können. Ich freue mich auf Sie!&nbsp;😊</p>
+          </div>
+        </div>
+      </section>
     </main>
     <footer>
       <section id="footer">
@@ -322,6 +358,6 @@
   <script src="./assets/js/jquery-1.11.1.min.js"></script>
   <script src="./assets/js/slick/slick.min.js"></script>
   <script src="./assets/js/typewriter-2.17.0.min.js"></script>
-  <script src="./assets/js/main.js"></script>
+  <script src="./assets/js/main.js?v=1.1"></script>
 </body>
 </html>
