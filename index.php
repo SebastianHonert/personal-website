@@ -52,7 +52,7 @@
       <section>
         <div class="row row__welcome">
           <div class="column column__welcome">
-            <h1>Hallo, ich bin <span class="name">Sebastian</span>. Ich entwickle Web&shy;seiten, Web Apps, Online-Shops und digitale Produkte. Kompetent und 100% <span id="typewriter">zuverlässig.</span></h1>
+            <h1>Hallo, ich bin <span class="name">Sebastian</span>. Ich entwickle Web&shy;seiten, Web Apps, Online-Shops und digitale Produkte. Kompetent und <span id="typewriter">100% zuverlässig.</span></h1>
             <img class="welcome" alt="" src="./assets/img/kangaroo.svg">
           </div>
         </div>
@@ -267,7 +267,7 @@
         <div class="row row__contact">
           <div class="column column__contact">
             <h2><img src="./assets/img/rocket.svg" alt="🚀">Abflug?</h2>
-            <p>Sie können sich eine <strong>Zusammenarbeit</strong> mit mir vorstellen? Fas freut mich! Am besten schreiben Sie mir eine kurze Nachricht, dann melde ich mich zeitnah bei Ihnen und wir vereinbaren einen Termin für ein persönliches Telefonat oder ein Online-Meeting.</p>
+            <p>Sie können sich eine <strong>Zusammenarbeit</strong> mit mir vorstellen? Das freut mich! Am besten schreiben Sie mir eine kurze Nachricht, dann melde ich mich zeitnah bei Ihnen und wir vereinbaren einen Termin für ein persönliches Telefonat oder ein Online-Meeting.</p>
             <form id="contact-form">
               <p class="required required__incomplete">Bitte füllen Sie vor dem Absenden alle Formularfelder aus.</p>
               <label for="name">Ihr Name</label>
@@ -315,7 +315,7 @@
               <div class="timeline-item">
                 <div class="arrow"></div>
                 <h3>6. Veröffentlichung</h3>
-                <p>Mit dem Produkt-Release öffnen wir den Zugang zu Ihrem Produkt für das breite Publikum.</p>
+                <p>Mit dem Launch/Release öffnen wir den Zugang zu Ihrem Produkt für das breite Publikum.</p>
               </div>
             </div>
             <p class="phases"><strong>Geschafft!</strong> Das Ergebnis ist ein Produkt, das einwandfrei funktioniert, toll aussieht und auf das Sie stolz sein können. Klingt gut? Dann <a href="#contact"><strong>schreiben Sie mir</strong></a> am besten gleich eine Nachricht, damit wir loslegen können. Ich freue mich auf Sie!&nbsp;😊</p>
