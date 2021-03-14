@@ -42,6 +42,7 @@
               <li><a href="#portfolio">Portfolio</a></li>
               <li><a href="#clients">Referenzen</a></li>
               <li><a href="#contact">Kontakt</a></li>
+              <li><a href="#timeline">Ablauf</a></li>
             </ul>
           </nav>
         </div>
@@ -305,11 +306,11 @@
               </div>
               <div class="timeline-item">
                 <h3>4. Umsetzung</h3>
-                <p>Sobald das Konzept steht, beginnt die Umsetzung des Produkts. Am Ende dieses Arbeitsschrittes steht ein Prototyp, anhand dessen wir die Funktionalität der bisherigen Outputs auf Herz und Nieren prüfen.</p>
+                <p>Sobald das Konzept steht, beginnt die Umsetzung des Produkts. Am Ende dieses Arbeitsschrittes steht ein Prototyp, anhand dessen wir Erscheinungsbild und Funktionalität der bisherigen Outputs auf Herz und Nieren prüfen.</p>
               </div>
               <div class="timeline-item">
                 <h3>5. Korrekturphase</h3>
-                <p>In einer Korrekturphase nehmen wir notwendige Anpassungen und Änderungen and Design und Funktion vor und verleihen dem Produkt den nötigen Feinschliff.</p>
+                <p>In einer Korrekturphase nehmen wir notwendige Anpassungen und Änderungen and Form und Funktion vor und verleihen dem Produkt den nötigen Feinschliff.</p>
               </div>
               <div class="timeline-item">
                 <div class="arrow"></div>

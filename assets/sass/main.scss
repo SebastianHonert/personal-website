@@ -920,6 +920,14 @@ input[type='submit'].btn--error:active {
 }
 
 @media screen and (max-width: 767px) {
+  nav#main ul li {
+    margin-right: .375rem;
+  }
+
+  nav#main ul li:last-child {
+    margin-right: 0;
+  }
+
   h1 {
     padding: 0 0;
     text-align: center;
