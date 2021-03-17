@@ -310,7 +310,7 @@
               </div>
               <div class="timeline-item">
                 <h3>5. Korrekturphase</h3>
-                <p>In einer Korrekturphase nehmen wir notwendige Anpassungen und Änderungen and Form und Funktion vor und verleihen dem Produkt den nötigen Feinschliff.</p>
+                <p>In einer Korrekturphase nehmen wir notwendige Anpassungen und Änderungen an Form und Funktion vor und verleihen dem Produkt den nötigen Feinschliff.</p>
               </div>
               <div class="timeline-item">
                 <div class="arrow"></div>
