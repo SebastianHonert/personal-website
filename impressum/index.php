@@ -51,8 +51,8 @@
     </header>
     <main>
       <section>
-        <div class="row">
-          <div class="column">
+        <div class="row row__legal_notice">
+          <div class="column column__legal_notice">
             <h1 class="with-margin">Impressum &amp; Datenschutz</h1>
             
             <p>Verantwortlicher im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist</p>

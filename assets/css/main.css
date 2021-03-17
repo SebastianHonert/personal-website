@@ -73,13 +73,6 @@ h2 img {
   top: .6em;
   margin-right: .6rem; }
 
-body#legal-notice main h2 {
-  font-size: 1.75rem;
-  margin-top: 1.5em;
-  margin-bottom: .5em;
-  text-transform: none;
-  letter-spacing: 0; }
-
 p {
   margin: 0 0 1em;
   padding: 0 0; }
@@ -741,6 +734,17 @@ input[type='submit'].btn--error:active {
 .last {
   margin-bottom: 0 !important;
   padding-bottom: 0 !important; }
+
+/* Page legal notice */
+body#legal-notice main h2 {
+  font-size: 1.75rem;
+  margin-top: 1.5em;
+  margin-bottom: .5em;
+  text-transform: none;
+  letter-spacing: 0; }
+
+.column.column__legal_notice {
+  padding-top: 2rem; }
 
 /* Responsive */
 @media screen and (max-width: 812px) {
