@@ -113,63 +113,63 @@
         <div class="row row__portfolio">
           <div class="column column__portfolio">
             <div class="portfolio">
-              <a class="portfolio-item study-at-fau" href="https://study-at-fau.de" target="_blank">
+              <a class="portfolio-item study-at-fau" href="https://study-at-fau.de">
                 <div class="cover"></div>
                 <div class="description">
                   <h3>Study at FAU</h3>
                   <p>https://study-at-fau.de</p>
                 </div>
               </a>
-              <a class="portfolio-item kus" href="https://kus-projekt.de" target="_blank">
+              <a class="portfolio-item kus" href="https://kus-projekt.de">
                 <div class="cover"></div>
                 <div class="description">
                   <h3>Schule einmal anders</h3>
                   <p>https://kus-projekt.de</p>
                 </div>
               </a>
-              <a class="portfolio-item zauberharfe" href="https://cab-onlineshop.de" target="_blank">
+              <a class="portfolio-item zauberharfe" href="https://cab-onlineshop.de">
                 <div class="cover"></div>
                 <div class="description">
                   <h3>Zauberhafte Harfen</h3>
                   <p>https://cab-onlineshop.de</p>
                 </div>
               </a>
-              <a class="portfolio-item mkg-connect" href="https://mkg-connect.de" target="_blank">
+              <a class="portfolio-item mkg-connect" href="https://mkg-connect.de">
                 <div class="cover"></div>
                 <div class="description">
                   <h3>MKG Connect</h3>
                   <p>https://mkg-connect.de</p>
                 </div>
               </a>
-              <a class="portfolio-item ciell" href="https://ciell.eu/app/" target="_blank">
+              <a class="portfolio-item ciell" href="https://ciell.eu/app/">
                 <div class="cover"></div>
                 <div class="description">
                   <h3>CIELL App</h3>
                   <p>https://ciell.eu/app/</p>
                 </div>
               </a>
-              <a class="portfolio-item meinstudium" href="https://meinstudium.fau.de" target="_blank">
+              <a class="portfolio-item meinstudium" href="https://meinstudium.fau.de">
                 <div class="cover"></div>
                 <div class="description">
                   <h3>FAU MeinStudium</h3>
                   <p>https://meinstudium.fau.de</p>
                 </div>
               </a>
-              <a class="portfolio-item hochzeitsband" href="https://hochzeitsband.de" target="_blank">
+              <a class="portfolio-item hochzeitsband" href="https://hochzeitsband.de">
                 <div class="cover"></div>
                 <div class="description">
                   <h3>Musik für Verliebte</h3>
                   <p>https://hochzeitsband.de</p>
                 </div>
               </a>
-              <a class="portfolio-item reinhard-krehl" href="https://reinhardkrehl.de" target="_blank">
+              <a class="portfolio-item reinhard-krehl" href="https://reinhardkrehl.de">
                 <div class="cover"></div>
                 <div class="description">
                   <h3>Reinhard Krehl</h3>
                   <p>https://reinhardkrehl.de</p>
                 </div>
               </a>
-              <a class="portfolio-item mnmlwp" href="https://minimalwordpress.de" target="_blank">
+              <a class="portfolio-item mnmlwp" href="https://minimalwordpress.de">
                 <div class="cover"></div>
                 <div class="description">
                   <h3>mnmlWP Theme</h3>
@@ -195,7 +195,7 @@
                 <p>Sebastian half uns schnell und unkompliziert im Aufbau unserer Website. Dabei unterstützte er uns durch hilfreiche strukturelle als auch grafische Lösungsansätze in der Umsetzung unserer Ideen. Des Weiteren betreut er auch aktuell unsere Website und kümmert sich neben technischen Verbesserungen und Erneuerungen auch um deren Aktualisierung nach unseren Vorgaben. Hierbei agiert er sehr gewissenhaft und zeitnah. Mit ihm haben wir einen zuverlässigen, kreativen und lösungsorientierten Partner gefunden, der uns hoffentlich noch lange betreuen wird. Danke!</p>
               </div>
               <div class="slide">
-                <a href="https://relativgut.de" target="_blank" rel="noopener noreferrer" class="image roland"></a>
+                <a href="https://relativgut.de" class="image roland"></a>
                 <h2>Roland</h2>
                 <p>Sebastian hat ein Info-Portal für alle Fakultäten der Universität entwickelt und dabei den Bedarf von über 250 Studiengängen berücksichtigt. Mit Sebastian im Team konnten wir viel kreativer arbeiten, als es mit einer Agentur möglich gewesen wäre. Er bringt sich inhaltlich ein und liefert vom Datenmodell bis zum Frontend-Design Lösungen, die gut aussehen und den Nutzen für die Anwender in den Vordergrund stellen. Entstanden ist so ein Ergebnis, auf das wir stolz sein können.</p>
               </div>
@@ -344,7 +344,7 @@
               <div class="flex-column flex-column__half">
                 <div class="legal">
                   <p>
-                    <a href="https://github.com/SebastianHonert/personal-website" target="_blank" rel="noopener noreferrer">GitHub Repository</a><br>
+                    <a href="https://github.com/SebastianHonert/personal-website">GitHub Repository</a><br>
                     <a href="./impressum/">Impressum &amp; Datenschutz</a>
                   </p>
                   <p class="last">Diese Website verwendet weder Cookies noch Google Analytics und auch sonst keine Tracking-Software. Datenkraken müssen draußen bleiben.</p>
