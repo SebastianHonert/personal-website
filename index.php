@@ -187,7 +187,7 @@
               <div class="slide">
                 <div class="image thomas"></div>
                 <h2>Thomas</h2>
-                <p>Wir danken für den großartigen Service und die überzeugenden technischen Lösungen, den Sebastian für uns und unsere neuen Webseiten realisiert hat. Für uns war es „the next step to the future“, den er uns spielend leicht ermöglichte. Wir freuen uns auf weitere Projekte und eine ergebnisreiche Zusammenarbeit in den nächsten Jahren.</p>
+                <p>Wir danken für den großartigen Service und die überzeugenden technischen Lösungen, die Sebastian für uns und unsere neuen Webseiten realisiert hat. Für uns war es „the next step to the future“, den er uns spielend leicht ermöglichte. Wir freuen uns auf weitere Projekte und eine ergebnisreiche Zusammenarbeit in den nächsten Jahren.</p>
               </div>
               <div class="slide">
                 <div class="image ruth"></div>
